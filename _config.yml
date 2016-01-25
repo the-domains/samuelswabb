@@ -1,0 +1,28 @@
+name: SamuelSwabb
+favicon: null
+layout_spectrum: 0.33619675249792635
+typography_spectrum: 0.11940616928040981
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8903860964346677
+  lightness: 0.9627315879333764
+  saturation: 0.08157543209381402
+  rhythmicContrast: 0.860756340669468
+purpose: []
